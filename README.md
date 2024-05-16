@@ -1,10 +1,10 @@
-<img src="https://media.tenor.com/Cri9ly9IFjMAAAAj/fireworks-color.gif" width="20" height="20">
+
+<div id="header" align="center"><h2>
+<img src="https://media.tenor.com/Cri9ly9IFjMAAAAj/fireworks-color.gif" width="30" height="30">  Hello there <img src="https://media.tenor.com/Cri9ly9IFjMAAAAj/fireworks-color.gif" width="30" height="30"></h2>
 
 
-
-## Hi there 👋
-
-
+</div>
+<img src="https://media1.tenor.com/m/4RYbGa1GttQAAAAC/lofi-browsing.gif" width="200">
 <!--
 **morwen44/morwen44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
