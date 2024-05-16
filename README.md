@@ -1,4 +1,7 @@
-![https://tenor.com/view/fireworks-color-sparkle-gif-15241523](https://tenor.com/view/fireworks-color-sparkle-gif-15241523)
+![sparkles](https://media.tenor.com/Cri9ly9IFjMAAAAj/fireworks-color.gif)
+
+
+
 ## Hi there 👋
 
 
