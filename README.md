@@ -24,6 +24,18 @@ My name is Monserrat, and I'm from Mexico. 🇲🇽🌮
 - ✨ I'm also a fashion designer, tattoo artist and nail artist.
 
 - 🐱 In my free time, I enjoy drawing, watching series, and chilling with my orange cat, Hugo.
+
+<h2></h2>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /></h3>
+
+<img src="https://media.tenor.com/SRSco4res10AAAAi/coming-soon.gif" width="50">
+
+<h2></h2>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> </h3>
+
+<img src="https://media.tenor.com/SRSco4res10AAAAi/coming-soon.gif" width="50">
 <!--
 **morwen44/morwen44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
