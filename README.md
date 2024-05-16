@@ -1,4 +1,4 @@
-![sparkles](https://media.tenor.com/Cri9ly9IFjMAAAAj/fireworks-color.gif)
+<img src="https://media.tenor.com/Cri9ly9IFjMAAAAj/fireworks-color.gif" width="20" height="20">
 
 
 
