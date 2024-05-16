@@ -15,7 +15,7 @@
 </div>
 
 <h2> </h2>
-<h3> <img src="https://media.tenor.com/vafOLwS0j0sAAAAi/star-y%C4%B1ld%C4%B1z.gif" height="20"> About Me <img src="https://media.tenor.com/vafOLwS0j0sAAAAi/star-y%C4%B1ld%C4%B1z.gif" height="20"></h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /></h3>
 
 My name is Monserrat, and I'm from Mexico. 🇲🇽🌮
 
@@ -27,13 +27,13 @@ My name is Monserrat, and I'm from Mexico. 🇲🇽🌮
 
 <h2></h2>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /></h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" height="20" /> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" height="20" /></h3>
 
 <img src="https://media.tenor.com/SRSco4res10AAAAi/coming-soon.gif" width="50">
 
 <h2></h2>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> </h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="20" height="20" /> My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="20" height="20" /> </h3>
 
 <img src="https://media.tenor.com/SRSco4res10AAAAi/coming-soon.gif" width="50">
 <!--
