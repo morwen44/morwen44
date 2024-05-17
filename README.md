@@ -21,7 +21,7 @@ My name is Monserrat, and I'm from Mexico. 🇲🇽🌮
 
 - 📖 I'm an aspiring full-stack web developer
 
-- ✨ I'm also a fashion designer, tattoo artist and nail artist.
+- ✨ I'm also a fashion designer, tattoo artist, and nail artist.
 
 - 🐱 In my free time, I enjoy drawing, watching series, and chilling with my orange cat, Hugo.
 
@@ -36,7 +36,7 @@ My name is Monserrat, and I'm from Mexico. 🇲🇽🌮
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="20" height="20" /> My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="20" height="20" /> </h3>
 
 <img src="https://media.tenor.com/SRSco4res10AAAAi/coming-soon.gif" width="50">
-
+<h2></h2>
 <br><img src="https://komarev.com/ghpvc/?username=morwen44&style=for-the-badge&color=ff69b4"><br>
 <!--
 **morwen44/morwen44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
