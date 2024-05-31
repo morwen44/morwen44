@@ -19,7 +19,7 @@
 
 My name is Monserrat, and I'm from Mexico. 🇲🇽🌮
 
-- 📖 I'm an aspiring full-stack web developer
+- 📖 Full-stack web developer Jr.
 
 - ✨ I'm also a fashion designer, tattoo artist, and nail artist.
 
