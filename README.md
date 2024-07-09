@@ -23,7 +23,7 @@ My name is Monserrat, and I'm from Mexico. 🇲🇽🌮
 
 - ✨ I'm also a fashion designer, tattoo artist, and nail artist.
 
-- 🐱 In my free time, I enjoy drawing, watching series, and chilling with my orange cat, Hugo.
+- 🐱 In my free time, I enjoy drawing, watching series, and chilling with my ginger cat, Hugo.
 
 <h2></h2>
 
