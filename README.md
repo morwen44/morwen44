@@ -42,7 +42,7 @@ My name is Monserrat, and I'm from Mexico. 🇲🇽🌮
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="20" height="20" /> My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="20" height="20" /> </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morwen44&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h2></h2>
